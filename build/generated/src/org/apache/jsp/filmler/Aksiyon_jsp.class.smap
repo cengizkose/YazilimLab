@@ -1,0 +1,18 @@
+SMAP
+Aksiyon_jsp.java
+JSP
+*S JSP
+*F
++ 0 Aksiyon.jsp
+filmler/Aksiyon.jsp
++ 1 Zorolum.jsp
+filmler/Zorolum.jsp
++ 2 Cehennemsilahi.jsp
+filmler/Cehennemsilahi.jsp
+*L
+5,20:50
+5#1,88:70
+24#0,2:157
+5#2,101:159
+25#0,9:259
+*E
